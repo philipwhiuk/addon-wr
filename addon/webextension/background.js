@@ -48,6 +48,17 @@ privacy
 money
 data
 fuck
+sellout
+fail
+advertising
+disaster
+ridiculous
+addon
+extension
+breach
+trust
+faith
+responsibility
 `.trim().split(/\s+/);
 const XHEADERSITES = [
   "https://www.red-wheelbarrow.com/forkids/*",
